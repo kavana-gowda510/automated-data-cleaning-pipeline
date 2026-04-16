@@ -37,10 +37,10 @@ This pipeline automates the entire data cleaning process in 4 steps:
 ## 📊 Output Visualizations
 
 ### Study Time vs Final Grade
-![Study Time vs Final Grade](outputs/output01.jpeg)
+![Study Time vs Final Grade](output01.jpeg)
 
 ### Absences vs Final Grade
-![Absences vs Final Grade](outputs/output02.jpeg)
+![Absences vs Final Grade](output02.jpeg)
 
 ---
 
