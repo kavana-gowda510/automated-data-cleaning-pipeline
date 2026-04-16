@@ -49,13 +49,13 @@ This pipeline automates the entire data cleaning process in 4 steps:
 ```
 vision-astra-project/
 │
-├── README.md                  ← You are here
-├── LICENSE                    ← MIT License
-├── .gitignore                 ← Files excluded from GitHub
+├── README.md                  
+├── LICENSE                   
+├── .gitignore                
 │
 ├── data/
-│   ├── student_data.csv       ← Raw input dataset
-│   └── clean_data.csv         ← Cleaned output dataset
+│   ├── student_data.csv      
+│   └── clean_data.csv         
 │
 ├── src/
 │   ├── main.py                ← Data cleaning pipeline
@@ -65,8 +65,6 @@ vision-astra-project/
     ├── output01.jpeg          ← Study Time vs Grade chart
     └── output02.jpeg          ← Absences vs Grade chart
 ```
-
----
 
 ## 🛠️ Tech Stack
 
