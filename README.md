@@ -13,7 +13,7 @@
 
 | Name | Role |
 |------|------|
-| Kavana 1| Team Lead & Pipeline Developer |
+| Kavana | Team Lead & Pipeline Developer |
 | Yuktha M | Data Preprocessing & Analysis |
 | Shanu shilpi | Machine Learning & Outlier Detection |
 | Sneha Bannatti |  Testing & Validation |
